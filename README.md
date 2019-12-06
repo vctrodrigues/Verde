@@ -5,7 +5,7 @@
 - [1. Introduction](#1-introduction)
 - [2. Installing](#2-installing)
 - [3. Usage](#3-usage)
-- [4. authorship](#4-authorship)
+- [4. Authorship](#4-authorship)
 
 ## 1. Introduction
 
