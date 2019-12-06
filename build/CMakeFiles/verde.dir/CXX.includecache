@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/victorvieira/Documents/UFRN/EDB II/Verde/include/verde.hpp
+iostream
+-
+string
+-
+queue
+-
+sstream
+-
+
+/Users/victorvieira/Documents/UFRN/EDB II/Verde/src/drive.cpp
+../include/verde.hpp
+/Users/victorvieira/Documents/UFRN/EDB II/Verde/include/verde.hpp
+iostream
+-
+fstream
+-
+string.h
+-
+sstream
+-
+

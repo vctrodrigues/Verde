@@ -1,0 +1,3 @@
+/Users/victorvieira/Documents/UFRN/EDB II/Verde/build/CMakeFiles/rebuild_cache.dir
+/Users/victorvieira/Documents/UFRN/EDB II/Verde/build/CMakeFiles/edit_cache.dir
+/Users/victorvieira/Documents/UFRN/EDB II/Verde/build/CMakeFiles/verde.dir
