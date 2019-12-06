@@ -43,4 +43,4 @@ To use this mode, you must type `.bin/verde <filepath> --c` or `.bin/verde --c <
 
 ## 4. Authorship
 
-This project was developed by [Victor Raphaell Vieira Rodrigues](http://github.com/victorvieirar) (me). You may contact me for questions at GitHub or [email me](mailto:victorvieira89@gmail.com).
+This project was developed by [Victor Raphaell Vieira Rodrigues](http://github.com/victorvieirar) (me). You may contact me for questions at GitHub or [send me mail](mailto:victorvieira89@gmail.com).
